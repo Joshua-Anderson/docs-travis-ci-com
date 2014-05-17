@@ -12,7 +12,7 @@ For a minimal configuration, all you need to do is add the following to your `.t
       provider: cloud66
       redeployment_hook: "YOUR REDEPLOYMENT HOOK URL"
 
-You can find you redeployment hook from the information menu within the Cloud 66 portal.
+You can find the redeployment hook from the information menu within the Cloud 66 portal.
 
 You can also have the `travis` tool set up everything for you:
 
